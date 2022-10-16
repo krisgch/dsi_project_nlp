@@ -72,7 +72,7 @@ Areas to improve:
 ### Comments DataFrame
 |column|explanation|type|
 |---|---|---|
-|link_id|reddit's naming code of the thread|str|
+|name|reddit's naming code of the thread|str|
 |subreddit|cousera or edx|str|
 |title|the comment|str|
 |title_length|length of the title in characters|int|
